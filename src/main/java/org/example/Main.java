@@ -2,8 +2,8 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println(romanConverter("iiv"));
-        System.out.println(romanConverter("vix"));
+        System.out.println(romanConverter("iii"));
+        System.out.println(romanConverter("vi"));
     }
 
     private static int romanConverter(String l) {
